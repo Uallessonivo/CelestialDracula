@@ -1,4 +1,4 @@
-# CelestialDracula Theme for vscode by Uallesson Nunes Ivo
+# Theme for vscode by Uallesson
 
 - Criei esse tema para se adaptar ao meu setup que é totalmente preto
 - Juntei o tema Celestial com a font style do tema Dracula
