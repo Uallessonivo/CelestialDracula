@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "Uallesson"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# CelestialDracula Theme for vscode by Uallesson Nunes Ivo
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+- Criei esse tema para se adaptar ao meu setup que é totalmente preto
+- Juntei o tema Celestial com a font style do tema Dracula
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+## CelestialDracula
+
+<p align="center">
+  <img alt="App.finance" src="https://i.ibb.co/S7r1Y2f/Celestial-Dark.png" width="100%">
+</p>
+
 
 **Enjoy!**
