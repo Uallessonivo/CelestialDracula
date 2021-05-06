@@ -18,10 +18,6 @@
 ## 📝 Criado por Uallesson Nunes Ivo
 
 <div align="center">
-	<img src="icons/nanowise-banner.png">
-</div>
-
-<div align="center">
 	<img src="https://i.ibb.co/S7r1Y2f/Celestial-Dark.png">
 	<img src="https://i.ibb.co/FDymqcB/Screenshot-20210506-113623.png">
 </div>
